@@ -50,6 +50,7 @@ body {
   .back-white{
     background-color: #ffffff;
     padding: 50px 0px;
+    margin: 0px;
   }
 
   .back-navy{
@@ -139,7 +140,7 @@ body {
   }
   
   .section-title-navy {
-    width: 1000px;
+    width: 900px;
     color: #ffffff;
     font-size: 36px;
     text-align: left;
@@ -190,7 +191,7 @@ body {
   }
 
   .three-column-contents{
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
     padding: 60px 0;
     display: flex;
